@@ -1,13 +1,32 @@
-th, td {
-  padding: 5px;
-  text-align: left;
+#errors-row {
+  display: none;
 }
 
-body {
-  margin: 0;
+#loading-row {
+  display: none;
 }
 
-#holder {
+#slots-holder-row {
+  display: none;
+}
+
+#appointment-holder-row {
+  display: none;
+}
+
+#patient-errors-row {
+  display: none;
+}
+
+#patient-loading-row {
+  display: none;
+}
+
+#patients-holder-row {
+  display: none;
+}
+
+#patient-search-create-row {
   display: none;
 }
 
